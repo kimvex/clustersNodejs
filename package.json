@@ -1,0 +1,38 @@
+{
+  "name": "ejemplos_clusters",
+  "version": "0.0.1",
+  "description": "Ejemplos de uso de clusters en Node.js",
+  "main": "clusters.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Benjamin De la Cruz Martinez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimvex/clustersNodejs.git"
+  },
+  "keywords": [
+    "Node.js",
+    "kimvex",
+    "cluster",
+    "clusters",
+    "js",
+    "JavaScript",
+    "node",
+    "express",
+    "http",
+    "NodeSchool",
+    "Tabasco",
+    "Mexico"
+  ],
+  "bugs": {
+    "url": "https://github.com/kimvex/clustersNodejs/issues"
+  },
+  "homepage": "https://github.com/kimvex/clustersNodejs#readme"
+}
